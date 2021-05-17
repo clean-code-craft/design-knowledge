@@ -1,2 +1,2 @@
 # SRP
---
+> Single Reponsibility Principle
